@@ -1,0 +1,58 @@
+{
+  "uid" : "35b4a7e5f1e0859d",
+  "name" : "Should validate the Navigation Page",
+  "fullName" : "Campaign Page.Should validate the Navigation Page",
+  "historyId" : "ce848b34e2d5ae1e6a55698727ae8a0b",
+  "time" : {
+    "start" : 1604790943722,
+    "stop" : 1604790943846,
+    "duration" : 124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should validate the Navigation Page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35b4a7e5f1e0859d.json",
+  "parameterValues" : [ "Chrome-86.0.4240.183" ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Assignment",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ft": "NODE_CONFIG_DIR=./test/config wdio ./test/wdio.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniyalwaris/Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniyalwaris/Assignment/issues"
+  },
+  "homepage": "https://github.com/daniyalwaris/Assignment#readme",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.7.2",
+    "@wdio/cli": "^6.7.2",
+    "@wdio/crossbrowsertesting-service": "^6.6.3",
+    "@wdio/local-runner": "^6.7.2",
+    "@wdio/mocha-framework": "^6.7.0",
+    "@wdio/selenium-standalone-service": "^6.6.5",
+    "@wdio/spec-reporter": "^6.7.0",
+    "@wdio/sync": "^6.7.2",
+    "chromedriver": "^86.0.0",
+    "wdio-chromedriver-service": "^6.0.4",
+    "wdio-docker-service": "^3.0.0"
+  },
+  "dependencies": {
+    "wdio-rerun-service": "^0.0.10"
+  }
+}
